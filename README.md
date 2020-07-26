@@ -9,6 +9,12 @@ This application allows one to add
 different departments, different users, and news and particularly department news. 
 It is exploring the usage of APIs and postman for front ends.
 
+## App Capabilities
+- Add a new department
+- Add general news
+- Add news Specific to a Department
+- Add Users for various departments
+
 ## To use the app:
 - One needs to first clone the repository onto the machine using this url "http://github.com/njoki254/News_Portal.git"
 
@@ -38,7 +44,7 @@ $ gradle --version
 
 ## You should also run tests before and after to ensure that 
 
-
+## Use Postman for APIs
 
 
 
