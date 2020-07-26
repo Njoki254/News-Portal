@@ -18,6 +18,11 @@ It is exploring the usage of APIs and postman for front ends.
 ## To use the app:
 - One needs to first clone the repository onto the machine using this url "http://github.com/njoki254/News_Portal.git"
 
+### To run the app 
+
+- Navigate into the src/main/java/App.java and click run in intellij.
+- Open postman api-tester and select the HTTP method, enter your root api url and send the connection
+
 ## Essential Technologies
 
 - Java
@@ -37,10 +42,6 @@ $ gradle --version
 
 #####Essentially type the name of the technologies installed and add "--version".
 
-### To run the app 
-
-- Navigate into the src/main/java/App.java and click run in intellij.
-- Open postman api-tester and select the HTTP method, enter your root api url and send the connection
 
 ## You should also run tests before and after to ensure that 
 
