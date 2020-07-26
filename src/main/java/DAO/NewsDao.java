@@ -10,5 +10,6 @@ public interface NewsDao {
     News findById(int id);
     List<News> getAllNews();
     void updateNews(int id, String content, String publisher);
-
+    void deleteNewsById(int id);
+    void deleteAllNews();
 }
