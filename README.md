@@ -47,7 +47,7 @@ $ gradle --version
 ## Use Postman for APIs
 
 ##### MIT Licence
-
+#####  Copyright (c) 2019 Njoki Kamau
 
 
 
